@@ -141,7 +141,7 @@ $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenu
 
 ## Code
 
-For the rest of the code, check the [SQL_queries.sql]((https://github.com/Outlaw-Gypsy/Walmart_sales/blob/main/walmart_main_project.sql)) file
+For the rest of the code, check the [SQL_queries.sql](https://github.com/Outlaw-Gypsy/Walmart_sales/blob/main/walmart_main_project.sql) file
 
 ```sql
 -- Create database
