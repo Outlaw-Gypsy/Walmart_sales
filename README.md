@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). The dataset consists of sales transactions from Walmart branches located in Mandalay, Yangon, and Naypyitaw, comprising 17 columns. The analysis aims to identify top-performing branches and products, sales trends across different products, and customer behavior patterns, providing actionable insights to optimize sales strategies.
 
 ## Purposes Of The Project
 
