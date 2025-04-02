@@ -4,20 +4,20 @@
 
 The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). The dataset consists of sales transactions from Walmart branches located in Mandalay, Yangon, and Naypyitaw, comprising 17 columns. The analysis aims to identify top-performing branches and products, sales trends across different products, and customer behavior patterns, providing actionable insights to optimize sales strategies.
 
-## Purposes Of The Project
+## Purposes Of The Project (Problem Statement)
 
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches. 
 Walmart aims to optimize sales performance and strategically enhance profitability across its branches in Mandalay, Yangon, and Naypyitaw. Currently, the business lacks detailed insights into critical factors influencing sales effectiveness, including product line performance variations, customer purchase behaviors, and sales trends throughout different periods (times of day, weekdays, and months).
 
 The project seeks comprehensive data-driven insights to:
 
-> Identify product line performance: Determine top-performing and underperforming products, guiding targeted inventory and promotional strategies.
+1. Identify product line performance: Determine top-performing and underperforming products, guiding targeted inventory and promotional strategies.
 
-> Understand customer behavior: Segment customers effectively to maximize profitability, enhance customer experience, and improve retention.
+2. Understand customer behavior: Segment customers effectively to maximize profitability, enhance customer experience, and improve retention.
 
-> Analyze temporal sales trends: Highlight peak sales periods to optimize staffing, marketing strategies, and overall operational efficiency.
+3. Analyze temporal sales trends: Highlight peak sales periods to optimize staffing, marketing strategies, and overall operational efficiency.
 
-> The successful analysis will enable Walmart to strategically allocate resources, improve customer engagement, and significantly increase competitive advantage and revenue growth.
+4. The successful analysis will enable Walmart to strategically allocate resources, improve customer engagement, and significantly increase competitive advantage and revenue growth.
 
 ## About Data
 
